@@ -55,9 +55,9 @@ class Transition(nn.Module):
         return out
 
 
-class MDCNet(nn.Module):
+class PDCNet(nn.Module):
     def __init__(self, in_channels, num_classes, growth_rate=52, reduction=0.5):
-        super(MDCNet, self).__init__()
+        super(PDCNet, self).__init__()
         num_planes = 2*growth_rate
         self.growth_rate = growth_rate
         self.conv1 = nn.Conv2d(in_channels, num_planes, kernel_size=3, padding=1, bias=False)
