@@ -2,7 +2,7 @@
 PyTorch: 170
 Python: 3.7.3
 
-Patch size: $11\times11$
+Patch size: 11\times11
 Epoch: 100
 Learning rate: 0.001
 Optimizer: Adam
