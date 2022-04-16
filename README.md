@@ -6,7 +6,7 @@ Zhao F, Zhang J, Meng Z, et al. Densely Connected Pyramidal Dilated Convolutiona
 PyTorch: 170
 Python: 3.7.3
 
-Patch size: 11\times11;
+Patch size: 11\*11;
 
 Epoch: 100;
 
