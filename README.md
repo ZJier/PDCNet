@@ -3,7 +3,8 @@ Code of paper "Densely Connected Pyramidal Dilated Convolutional Network for Hyp
 
 Zhao F, Zhang J, Meng Z, et al. Densely Connected Pyramidal Dilated Convolutional Network for Hyperspectral Image Classification[J]. Remote Sensing, 2021, 13(17): 3396.
 
-PyTorch: 170
+PyTorch: 170;
+
 Python: 3.7.3
 
 Patch size: 11\*11;
@@ -16,5 +17,4 @@ Optimizer: Adam;
 
 Scheduler: CosineAnnealingLR;
 
-![image](https://user-images.githubusercontent.com/103825398/163671818-2d7a4543-48c2-4609-9518-f70e4a24f7a3.png)
-![image](https://user-images.githubusercontent.com/103825398/163671824-082e51f8-bcf0-470b-a9a3-6bcd85ebf24f.png)
+![PDCNet](https://user-images.githubusercontent.com/103825398/174915620-f9db897f-3d97-4956-b985-a45ebdbdf287.JPG)
